@@ -1,0 +1,192 @@
+BoroCode,BoroName,CountyFIPS,NTACode,NTAName,Shape_Leng,Shape_Area,address,lat,lon,zipcode
+3,Brooklyn,47,BK88,Borough Park,39247.22783,54005019.05,"Borough Park, Brooklyn, NY, USA",40.6350319,-73.9921028,11219
+4,Queens,81,QN51,Murray Hill,33266.9048,52488277.85,"Murray Hill, Queens, NY, USA",40.7634996,-73.8073261,11358
+4,Queens,81,QN27,East Elmhurst,19816.712069999998,19726845.63,"East Elmhurst, Queens, NY, USA",40.7737505,-73.8713099,11371
+4,Queens,81,QN07,Hollis,20976.33557,22887772.87,"Hollis, Queens, NY, USA",40.7112203,-73.762495,11423
+1,Manhattan,61,MN06,Manhattanville,17040.68541,10647077.53,"Manhattanville, New York, NY 10027, USA",40.8169443,-73.9558333,10027
+3,Brooklyn,47,BK25,Homecrest,27514.02292,29991967.28,"Homecrest, Brooklyn, NY, USA",40.6004787,-73.9565551,11229
+2,Bronx,5,BX59,Westchester-Unionport,26557.409330000002,23945209.78,"Westchester Ave, The Bronx, NY, USA",40.830898,-73.8697898,10472
+2,Bronx,5,BX10,Pelham Bay-Country Club-City Island,138249.4364,40134533.27,"870 Shore Rd, The Bronx, NY 10464, United States",40.8719846,-73.8096076,10464
+2,Bronx,5,BX52,Schuylerville-Throgs Neck-Edgewater Park,91304.79487,88439964.04,"Throgs Neck, The Bronx, NY 10465, USA",40.818399,-73.8213213,10465
+4,Queens,81,QN41,Fresh Meadows-Utopia,22106.431269999997,27774853.42,"Utopia Pkwy, Queens, NY, USA",40.7555136,-73.7926329,11358
+4,Queens,81,QN08,St. Albans,45401.31695,77412748.11,"St. Albans, Queens, NY, USA",40.6895283,-73.7643688,11412
+4,Queens,81,QN25,Corona,23870.15403,20080371.46,#ERROR!,#ERROR!,#ERROR!,11368
+4,Queens,81,QN06,Jamaica Estates-Holliswood,35465.974930000004,42789975.85,"207-07 Union Tpke, Oakland Gardens, NY 11364, United States",40.733153,-73.7634614,11364
+3,Brooklyn,47,BK44,Madison,26237.257859999998,27379162.08,"Madison, Brooklyn, NY 11229, USA",40.6068853,-73.947958,11229
+3,Brooklyn,47,BK41,Kensington-Ocean Parkway,20800.75236,15893304.96,"Ocean Pkwy, Brooklyn, NY, USA",40.612878,-73.9683862,11230
+3,Brooklyn,47,BK95,Erasmus,18756.70186,14522603.59,"1500 Nostrand Ave, Brooklyn, NY 11226, United States",40.6496736,-73.9496786,11226
+2,Bronx,5,BX33,Longwood,18982.12966,10732452.18,"Longwood, The Bronx, NY 10459, USA",40.8248438,-73.8915875,10459
+3,Brooklyn,47,BK69,Clinton Hill,23971.4659,20528197.12,"Clinton Hill, Brooklyn, NY, USA",40.6896834,-73.9661144,11205
+4,Queens,81,QN33,Cambria Heights,26168.27009,33076797.82,"Cambria Heights, Queens, NY, USA",40.692158,-73.7330753,11411
+3,Brooklyn,47,BK43,Midwood,27996.590610000003,35799574.39,"Midwood, Brooklyn, NY, USA",40.6204388,-73.9599778,11230
+4,Queens,81,QN61,Jamaica,43696.36473,47308036.55,"Jamaica, Queens, NY, USA",40.702677,-73.7889689,11433
+4,Queens,81,QN01,South Jamaica,32122.55236,39971928.94,"South Jamaica, Queens, NY, USA",40.6808594,-73.7919103,11434
+3,Brooklyn,47,BK26,Gravesend,39922.674380000004,31341950.28,"Gravesend, Brooklyn, NY, USA",40.5918636,-73.9768653,11223
+3,Brooklyn,47,BK29,Bensonhurst East,33903.24544,35777947.59,"Bensonhurst, Brooklyn, NY, USA",40.6139307,-73.9921833,11204
+3,Brooklyn,47,BK72,Williamsburg,16874.43385,11589988.14,"Williamsburg, Brooklyn, NY, USA",40.7081156,-73.9570696,11211
+3,Brooklyn,47,BK75,Bedford,29992.9238,32629788.98,"Bedford-Stuyvesant, Brooklyn, NY, USA",40.6872176,-73.9417735,11221
+3,Brooklyn,47,BK35,Stuyvesant Heights,28239.08077,31406935.85,"Stuyvesant Heights, Brooklyn, NY, USA",40.6824166,-73.9319933,11233
+3,Brooklyn,47,BK46,Ocean Parkway South,21975.99732,17782095.76,"Ocean Pkwy, Brooklyn, NY, USA",40.612878,-73.9683862,11230
+3,Brooklyn,47,BK79,Ocean Hill,22494.58209,20089914.37,"Ocean Hill, Brooklyn, NY, USA",40.6782737,-73.9108212,11233
+3,Brooklyn,47,BK61,Crown Heights North,35635.54325,51619074.7,"Crown Heights, Brooklyn, NY, USA",40.6694022,-73.9422324,11213
+3,Brooklyn,47,BK63,Crown Heights South,24192.45593,15989888.79,"Crown St, Brooklyn, NY, USA",40.6659165,-73.9440494,11225
+3,Brooklyn,47,BK96,Rugby-Remsen Village,30957.8543,32706946.28,"Brooklyn, NY, USA",40.6781784,-73.9441579,11216
+2,Bronx,5,BX31,Allerton-Pelham Gardens,25467.11742,31693044.33,"Allerton Ave, The Bronx, NY, USA",40.865412,-73.8519496,10469
+3,Brooklyn,47,BK93,Starrett City,17414.78242,11598952.32,"1255 Granville Payne Ave, Brooklyn, NY 11239, United States",40.6501624,-73.8835983,11239
+3,Brooklyn,47,BK91,East Flatbush-Farragut,39201.03821,34360864.27,"Farragut Rd, Brooklyn, NY, USA",40.6385141,-73.9259643,11203
+4,Queens,81,QN20,Ridgewood,40608.5132,50495176.29,"Ridgewood, Queens, NY, USA",40.7043986,-73.9018292,11385
+3,Brooklyn,47,BK78,Bushwick South,40735.74218,40169452.36,"Bushwick, Brooklyn, NY, USA",40.6957755,-73.9170604,11221
+3,Brooklyn,47,BK77,Bushwick North,26321.62692,24927927.18,"Bushwick, Brooklyn, NY, USA",40.6957755,-73.9170604,11221
+3,Brooklyn,47,BK68,Fort Greene,19825.52089,16482821.54,"Fort Greene, Brooklyn, NY, USA",40.6920638,-73.9741874,11205
+4,Queens,81,QN68,Queensbridge-Ravenswood-Long Island City,27067.652869999998,23317032.76,"Houses, Queens, NY 11101, USA",40.7556711,-73.9456723,11101
+2,Bronx,5,BX08,West Farms-Bronx River,17477.29476,15084986.18,"West Farms, The Bronx, NY 10460, USA",40.8430609,-73.8816001,10460
+2,Bronx,5,BX46,Parkchester,12411.788209999999,9184677.037999999,"Parkchester, The Bronx, NY 10462, USA",40.8382522,-73.8566087,10462
+2,Bronx,5,BX55,Soundview-Bruckner,19756.55965,16253358.29,"Bruckner Blvd, The Bronx, NY, USA",40.823965,-73.8771406,10472
+3,Brooklyn,47,BK30,Dyker Heights,30596.84537,29911047.21,"Dyker Heights, Brooklyn, NY 11228, USA",40.6214932,-74.009584,11228
+3,Brooklyn,47,BK23,West Brighton,14113.581369999998,8738769.002999999,"West Brighton, Brooklyn, NY 11224, USA",40.5775,-73.9725,11224
+4,Queens,81,QN18,Rego Park,26675.10873,19941713.5,"Rego Park, Queens, NY, USA",40.7255722,-73.8624893,11374
+4,Queens,81,QN19,Glendale,41514.43535,30016735.81,"Glendale, Queens, NY, USA",40.7016662,-73.8842219,11385
+2,Bronx,5,BX28,Van Cortlandt Village,21945.71998,25666125.03,"Van Cortlandt Village, The Bronx, NY 10463, USA",40.8837203,-73.893139,10463
+4,Queens,81,QN26,North Corona,18431.053190000002,18000833.56,"North Corona, Queens, NY, USA",40.7543725,-73.8669188,11368
+4,Queens,81,QN38,Pomonok-Flushing Heights-Hillcrest,30731.59203,38835956.59,#ERROR!,#ERROR!,#ERROR!,11365
+1,Manhattan,61,MN15,Clinton,34481.628769999996,18362149.28,"Hell's Kitchen, New York, NY, USA",40.7637581,-73.9918181,10019
+5,Staten Island,85,SI12,Mariner's Harbor-Arlington-Port Ivory-Graniteville,70983.84847000001,89023935.74,"Mariners Harbor, Staten Island, NY 10303, USA",40.6367701,-74.1587547,10303
+4,Queens,81,QN34,Queens Village,41782.40111,69533432.82,"Queens Village, Queens, NY, USA",40.7156628,-73.7419017,11429
+4,Queens,81,QN43,Bellerose,32086.150889999997,55184284.56,"Bellerose Manor, Queens, NY, USA",40.7361769,-73.7137365,11004
+2,Bronx,5,BX41,Mount Hope,18937.24816,14716710.85,"Mount Hope, Manhattan, NY, USA",40.8488863,-73.9051185,10457
+4,Queens,81,QN21,Middle Village,42675.54848,57684905.43,"Middle Village, Queens, NY, USA",40.717372,-73.87425,11379
+4,Queens,81,QN29,Elmhurst,36711.3363,32675347.57,"Elmhurst, Queens, NY, USA",40.737975,-73.8801301,11373
+4,Queens,81,QN66,Laurelton,29530.92775,39784922.19,"Laurelton, Queens, NY, USA",40.67764,-73.7447853,11413
+2,Bronx,5,BX62,Woodlawn-Wakefield,38694.04071,39738786.39,"555 E 233rd St, The Bronx, NY 10466, United States",40.8953515,-73.8633567,10470
+2,Bronx,5,BX07,Bronxdale,17432.17611,15185447.53,"Bronxdale, The Bronx, NY 10462, USA",40.8506558,-73.8665241,10462
+3,Brooklyn,47,BK85,East New York (Pennsylvania Ave),24226.851290000002,19397526.69,"Pennsylvania Ave, Brooklyn, NY, USA",40.6585561,-73.8905344,11207
+4,Queens,81,QN55,South Ozone Park,36708.16929,82461393.53,"South Ozone Park, Queens, NY, USA",40.6764003,-73.8124984,11420
+3,Brooklyn,47,BK27,Bath Beach,22383.74323,20534620.81,"Bath Beach, Brooklyn, NY, USA",40.6038852,-74.0062078,11214
+3,Brooklyn,47,BK28,Bensonhurst West,37137.43917,46670569.51,"Bensonhurst, Brooklyn, NY, USA",40.6139307,-73.9921833,11204
+5,Staten Island,85,SI48,Arden Heights,29689.39553,50410815.85,"Arden Heights, Staten Island, NY 10312, USA",40.556413,-74.1735044,10312
+4,Queens,81,QN30,Maspeth,41265.6433,35633161.0,"Maspeth, Queens, NY, USA",40.7294018,-73.9065883,11377
+2,Bronx,5,BX44,Williamsbridge-Olinville,27351.07767,36273595.38,"Williamsbridge, The Bronx, NY, USA",40.8787602,-73.8528356,10469
+4,Queens,81,QN50,Elmhurst-Maspeth,32362.8252,21927665.93,"57th Avenue &, Grand Ave, Queens, NY 11373, United States",40.767267,-73.9841435,10019
+4,Queens,81,QN23,College Point,59454.7495,50553980.64,"College Point, Queens, NY, USA",40.786395,-73.8389657,11356
+3,Brooklyn,47,BK73,North Side-South Side,28149.97995,28869768.12,"161 Montrose Ave, Brooklyn, NY 11206, United States",40.7074918,-73.9427665,11206
+4,Queens,81,QN37,Kew Gardens Hills,33105.85523,37888713.65,"Kew Gardens Hills, Queens, NY 11367, USA",40.7384471,-73.8104048,11367
+4,Queens,81,QN63,Woodside,27868.190339999997,28248218.67,"Woodside, Queens, NY, USA",40.7532952,-73.9068973,11377
+2,Bronx,5,BX98,Rikers Island,18898.11629,18163827.58,"Rikers Island, New York, NY, USA",40.7931277,-73.88601,11370
+5,Staten Island,85,SI28,Port Richmond,39041.546310000005,36422143.64,"Port Richmond, Staten Island, NY, USA",40.6354914,-74.1254641,10310
+3,Brooklyn,47,BK81,Brownsville,27298.84988,32719365.87,"Brownsville, Brooklyn, NY, USA",40.665214,-73.9125304,11212
+4,Queens,81,QN54,Richmond Hill,33792.46553,50978396.17,"Richmond Hill, Queens, NY, USA",40.6958108,-73.8272029,11418
+4,Queens,81,QN62,Queensboro Hill,30549.053160000003,26561788.17,"Flushing, Queens, NY, USA",40.7674987,-73.833079,11354
+1,Manhattan,61,MN27,Chinatown,20786.25611,14501868.16,"Chinatown, New York, NY, USA",40.7157509,-73.9970307,10013
+5,Staten Island,85,SI01,Annadale-Huguenot-Prince's Bay-Eltingville,71174.58291,141057788.4,"Annadale, Staten Island, NY 10312, USA",40.5445496,-74.1765324,10312
+1,Manhattan,61,MN25,Battery Park City-Lower Manhattan,43738.49622,19014298.9,"Battery Park City, New York, NY, USA",40.7115786,-74.0158441,10280
+4,Queens,81,QN17,Forest Hills,36171.47826,57827751.66,"Forest Hills, Queens, NY 11375, USA",40.718106,-73.8448469,11375
+1,Manhattan,61,MN14,Lincoln Square,19869.90832,15805586.31,"Lincoln Square, New York, NY, USA",40.7741769,-73.9849118,10023
+1,Manhattan,61,MN17,Midtown-Midtown South,27032.70022,30191534.37,"Midtown South, New York, NY, USA",40.7521795,-73.9875438,10018
+1,Manhattan,61,MN40,Upper East Side-Carnegie Hill,23778.410519999998,20065364.18,"Carnegie Hill, New York, NY, USA",40.7844653,-73.9550857,10128
+4,Queens,81,QN53,Woodhaven,28067.66447,37000431.4,"Woodhaven, Queens, NY, USA",40.6901366,-73.8566087,11421
+5,Staten Island,85,SI54,Great Kills,66104.137,89615894.75,"Great Kills, Staten Island, NY, USA",40.5543273,-74.156292,10308
+3,Brooklyn,47,BK60,Prospect Lefferts Gardens-Wingate,29562.442689999996,31638973.18,"Prospect Lefferts Gardens, Brooklyn, NY, USA",40.6592355,-73.9533895,11225
+2,Bronx,5,BX26,Highbridge,18506.3102,16457635.51,"Highbridge, The Bronx, NY, USA",40.836916,-73.9271294,10452
+3,Brooklyn,47,BK21,Seagate-Coney Island,51874.95553,38782030.92,"Seagate, Brooklyn, NY, USA",40.5768098,-74.0079781,11224
+2,Bronx,5,BX22,North Riverdale-Fieldston-Riverdale,31851.142460000003,49048279.09,"5250 Fieldston Rd, The Bronx, NY 10471, United States",40.8996639,-73.9006248,10471
+2,Bronx,5,BX29,Spuyten Duyvil-Kingsbridge,27990.7884,23214112.68,"3041 Kingsbridge Ave, The Bronx, NY 10463, United States",40.8794471,-73.9075988,10463
+3,Brooklyn,47,BK40,Windsor Terrace,19033.671730000002,14041668.07,"Windsor Terrace, Brooklyn, NY, USA",40.6539346,-73.9756567,11218
+3,Brooklyn,47,BK64,Prospect Heights,15073.773519999999,10230580.6,"Prospect Heights, Brooklyn, NY, USA",40.6774196,-73.9668408,11238
+3,Brooklyn,47,BK42,Flatbush,38737.85381,45254807.5,"Flatbush, Brooklyn, NY, USA",40.6414876,-73.9593998,11226
+2,Bronx,5,BX27,Hunts Point,44726.8185,49729963.23,"Hunts Point, The Bronx, NY, USA",40.8094385,-73.8803315,10474
+3,Brooklyn,47,BK50,Canarsie,43718.66635,82098856.61,"Canarsie, Brooklyn, NY, USA",40.6402325,-73.9060579,11236
+3,Brooklyn,47,BK58,Flatlands,40635.27534,54341776.2,"Flatlands, Brooklyn, NY, USA",40.6232714,-73.9321664,11234
+4,Queens,81,QN44,Glen Oaks-Floral Park-New Hyde Park,33596.47316,45666940.66,"260-01 79th Ave, Glen Oaks, NY 11004, United States",40.7468722,-73.7114124,11004
+4,Queens,81,QN45,Douglas Manor-Douglaston-Little Neck,45784.45809,68394169.93,"23421 41st Ave, Flushing, NY 11363, United States",40.7687644,-73.7495407,11363
+2,Bronx,5,BX06,Belmont,17114.268969999997,13557339.87,"Belmont, The Bronx, NY, USA",40.8534507,-73.8893682,10458
+4,Queens,81,QN35,Briarwood-Jamaica Hills,30038.170680000003,29301607.07,"Briarwood, Queens, NY, USA",40.7109315,-73.813561,11435
+4,Queens,81,QN60,Kew Gardens,21449.75156,20568333.52,"Kew Gardens, Queens, NY, USA",40.705695,-73.8272029,11415
+2,Bronx,5,BX09,Soundview-Castle Hill-Clason Point-Harding Park,67340.97939,51983797.5,"Harding Park, The Bronx, NY 10473, USA",40.8096822,-73.8551385,10473
+4,Queens,81,QN28,Jackson Heights,29422.38874,47856882.62,"Jackson Heights, Queens, NY, USA",40.7556818,-73.8830701,11372
+3,Brooklyn,47,BK37,Park Slope-Gowanus,31476.80909,42509226.23,"150 4th Ave, Brooklyn, NY 11217, United States",40.6797275,-73.9818356,11217
+5,Staten Island,85,SI11,Charleston-Richmond Valley-Tottenville,84848.45521,145674612.0,"Richmond Valley Rd, Staten Island, NY 10309, USA",40.5206571,-74.2331309,10309
+5,Staten Island,85,SI32,Rossville-Woodrow,33247.2589,64963357.85,"Woodrow, Staten Island, NY 10312, USA",40.5434385,-74.1976441,10312
+3,Brooklyn,47,BK83,Cypress Hills-City Line,35565.83025,27609750.63,"City Line, Brooklyn, NY 11207, USA",40.6762144,-73.8870806,11207
+1,Manhattan,61,MN03,Central Harlem North-Polo Grounds,27983.88418,25403484.05,"2931 Frederick Douglass Blvd, New York, NY 10039, United States",40.8299488,-73.9374058,10039
+3,Brooklyn,47,BK82,East New York,87941.16682,117025692.3,"East New York, Brooklyn, NY, USA",40.6590529,-73.8759245,11208
+1,Manhattan,61,MN32,Yorkville,17998.72085,13602064.14,"Yorkville, New York, NY, USA",40.7762231,-73.9492079,10028
+4,Queens,81,QN48,Auburndale,32452.05928,34164915.08,"Auburndale, Queens, NY, USA",40.7577672,-73.7833961,11361
+4,Queens,81,QN52,East Flushing,25848.54542,29453683.48,"East Flushing, Queens, NY, USA",40.7540534,-73.8086418,11355
+2,Bronx,5,BX34,Melrose South-Mott Haven North,19589.19728,17271780.75,"Melrose, The Bronx, NY 10451, USA",40.824545,-73.9104143,10456
+2,Bronx,5,BX39,Mott Haven-Port Morris,35603.73328,41898533.76,"Port Morris, The Bronx, NY, USA",40.8022025,-73.9166051,10454
+1,Manhattan,61,MN22,East Village,13555.23945,10894316.12,"East Village, New York, NY, USA",40.7264773,-73.9815337,10009
+1,Manhattan,61,MN28,Lower East Side,25466.69137,23297284.6,"Lower East Side, New York, NY, USA",40.715033,-73.9842724,10002
+2,Bronx,5,BX01,Claremont-Bathgate,29972.777169999998,16451615.82,"Bathgate Ave & Claremont Pkwy, The Bronx, NY 10457, USA",40.8498932,-73.8954744,10457
+2,Bronx,5,BX35,Morrisania-Melrose,27740.84615,16891753.64,"Morrisania, The Bronx, NY, USA",40.8310814,-73.9058574,10456
+2,Bronx,5,BX75,Crotona Park East,24813.241469999997,16319724.93,"Crotona Park East, The Bronx, NY 10460, USA",40.8365344,-73.8933509,10460
+1,Manhattan,61,MN21,Gramercy,12096.89551,7526926.68,"Gramercy Park, New York, NY, USA",40.7367783,-73.9844722,10010
+1,Manhattan,61,MN01,Marble Hill-Inwood,31844.40942,17732688.67,"Marble Hill, New York, NY, USA",40.8761173,-73.9102628,10463
+1,Manhattan,61,MN24,SoHo-TriBeCa-Civic Center-Little Italy,26855.032330000002,25032687.72,"Little Italy, New York, NY 10013, USA",40.7191413,-73.9973273,10013
+1,Manhattan,61,MN23,West Village,28621.65099,24970650.17,"West Village, New York, NY, USA",40.73468,-74.0047554,10014
+3,Brooklyn,47,BK09,Brooklyn Heights-Cobble Hill,14264.786530000001,9983620.469,"Cobble Hill, Brooklyn, NY, USA",40.686536,-73.9962255,11201
+1,Manhattan,61,MN13,Hudson Yards-Chelsea-Flatiron-Union Square,45693.0746,37068381.79,"35 W 19th St, New York, NY 10011, United States",40.7400335,-73.9930878,10011
+2,Bronx,5,BX40,Fordham South,15880.352069999999,6308875.2129999995,"Fordham, The Bronx, NY 10458, USA",40.8592667,-73.8984694,10458
+1,Manhattan,61,MN12,Upper West Side,29160.206280000002,34379942.5,"Upper West Side, New York, NY, USA",40.7870106,-73.9753676,10024
+2,Bronx,5,BX43,Norwood,22150.30822,15724928.32,"Norwood, The Bronx, NY, USA",40.8810341,-73.878486,10467
+2,Bronx,5,BX05,Bedford Park-Fordham North,22565.481190000002,14998883.48,"Bedford Park, The Bronx, NY 10458, USA",40.8700999,-73.8856912,10458
+2,Bronx,5,BX03,Eastchester-Edenwald-Baychester,59164.99931,40256794.25,"Eastchester, The Bronx, NY, USA",40.8859837,-73.8279471,10475
+2,Bronx,5,BX13,Co-op City,30327.128139999997,39833695.0,"Co-Op City, The Bronx, NY 10475, USA",40.8738889,-73.8294444,10475
+2,Bronx,5,BX17,East Tremont,29633.13653,19255162.73,"East Tremont, The Bronx, NY 10457, USA",40.8453781,-73.8909693,10457
+3,Brooklyn,47,BK17,Sheepshead Bay-Gerritsen Beach-Manhattan Beach,91051.03373,63341499.77,"760 Oriental Blvd, Brooklyn, NY 11235, United States",40.5766154,-73.9430926,11235
+3,Brooklyn,47,BK19,Brighton Beach,21060.16966,17180137.76,"Brighton Beach, Brooklyn, NY, USA",40.5780706,-73.9596565,11235
+4,Queens,81,QN10,Breezy Point-Belle Harbor-Rockaway Park-Broad Channel,114095.12,99436037.04,"W 2nd Rd, Broad Channel, NY 11693, United States",40.6146999,-73.821382,11693
+4,Queens,81,QN12,Hammels-Arverne-Edgemere,83804.73141000001,61894959.51,"Arverne, Queens, NY, USA",40.592658,-73.7977928,11692
+5,Staten Island,85,SI08,Grymes Hill-Clifton-Fox Hills,37119.89962,37752553.38,"42 Arlo Rd, Staten Island, NY 10301, United States",40.6195417,-74.0917173,10301
+4,Queens,81,QN03,Springfield Gardens South-Brookville,45322.12309,43288489.65,"149 Ave &, S Conduit Ave, Springfield Gardens, NY 11413, United States",#ERROR!,#ERROR!,11413
+4,Queens,81,QN05,Rosedale,64163.7234,61569261.15,"Rosedale, Queens, NY, USA",40.6584068,-73.7389596,11422
+5,Staten Island,85,SI37,Stapleton-Rosebank,55208.93697,46432646.33,"Rosebank, Staten Island, NY 10305, USA",40.6139932,-74.0662521,10305
+5,Staten Island,85,SI25,Oakwood-Oakwood Beach,44299.03226,55961883.75,"Oakwood Beach, Staten Island, NY 10306, USA",40.5526053,-74.1143087,10306
+5,Staten Island,85,SI45,New Dorp-Midland Beach,34336.5209,55429451.12,"New Dorp, Staten Island, NY 10306, USA",40.5739937,-74.1159755,10306
+3,Brooklyn,47,BK90,East Williamsburg,49247.02697,39132793.82,"East Williamsburg, Brooklyn, NY, USA",40.7141953,-73.9316461,11211
+5,Staten Island,85,SI14,Grasmere-Arrochar-Ft. Wadsworth,39940.27553,40925777.49,"Fort Wadsworth, Staten Island, NY 10305, USA",40.6012117,-74.0579185,10305
+4,Queens,81,QN70,Astoria,32534.7384,39335513.59,"Astoria, Queens, NY, USA",40.7643574,-73.9234619,11106
+5,Staten Island,85,SI36,Old Town-Dongan Hills-South Beach,41971.58255,67009381.27,"Dongan Hills, Staten Island, NY, USA",40.5906641,-74.088452,10305
+4,Queens,81,QN15,Far Rockaway-Bayswater,48684.4168,54160419.88,"Bayswater Ave, Queens, NY 11691, USA",40.6068327,-73.7654054,11691
+3,Brooklyn,47,BK38,DUMBO-Vinegar Hill-Downtown Brooklyn-Boerum Hill,32542.89994,28477918.57,"72 Hudson Ave, Brooklyn, NY 11201, United States",40.702748,-73.9812812,11201
+3,Brooklyn,47,BK45,Georgetown-Marine Park-Bergen Beach-Mill Basin,91993.56479,69463730.98,"4014 Avenue U, Brooklyn, NY 11234, United States",40.6083914,-73.9242091,11234
+2,Bronx,5,BX49,Pelham Parkway,25823.03689,23032576.14,"Pelham Parkway, The Bronx, NY, USA",40.8553279,-73.8639594,10462
+1,Manhattan,61,MN50,Stuyvesant Town-Cooper Village,12021.7903,5582283.016,"Stuyvesant Town-Peter Cooper Village, New York, NY, USA",40.7316903,-73.9778494,10009
+2,Bronx,5,BX37,Van Nest-Morris Park-Westchester Square,42870.3928,36302379.26,"Westchester Square, The Bronx, NY, USA",40.839815,-73.8464802,10461
+3,Brooklyn,47,BK33,Carroll Gardens-Columbia Street-Red Hook,60820.88416,44601379.23,"Columbia St, Brooklyn, NY, USA",40.6775239,-74.0063441,11231
+3,Brooklyn,47,BK76,Greenpoint,28914.354910000002,35321995.79,"Greenpoint, Brooklyn, NY, USA",40.7304701,-73.9515032,11222
+1,Manhattan,61,MN20,Murray Hill-Kips Bay,24491.310569999998,14485874.77,"166 E 34th St, New York, NY 10016, United States",40.7453505,-73.9787369,10016
+1,Manhattan,61,MN04,Hamilton Heights,17411.381709999998,16096135.96,"Hamilton Heights, New York, NY, USA",40.8252793,-73.9476139,10031
+4,Queens,81,QN46,Bayside-Bayside Hills,43020.787939999995,80798589.95,"Bayside Hills, Queens, NY, USA",40.7531092,-73.7661721,11364
+2,Bronx,5,BX14,East Concourse-Concourse Village,27223.84718,18222401.64,"Concourse Village, Manhattan, NY, USA",40.8255863,-73.9184388,10451
+2,Bronx,5,BX63,West Concourse,28499.044639999996,19379817.36,"Concourse, The Bronx, NY, USA",40.8316761,-73.9227554,10452
+1,Manhattan,61,MN36,Washington Heights South,22106.42365,23092823.98,"Washington Heights, New York, NY, USA",40.8417082,-73.9393554,10032
+1,Manhattan,61,MN35,Washington Heights North,26683.663269999997,22667347.41,"4334 Broadway, New York, NY 10033, United States",40.852476,-73.9342996,10033
+1,Manhattan,61,MN09,Morningside Heights,20746.05846,20155865.45,"Morningside Heights, New York, NY, USA",40.8105443,-73.9620581,10027
+1,Manhattan,61,MN33,East Harlem South,18624.66481,16650687.57,"East Harlem, New York, NY, USA",40.7957399,-73.9389213,10029
+1,Manhattan,61,MN19,Turtle Bay-East Midtown,21124.05419,17389163.83,"Midtown East, New York, NY, USA",40.7571432,-73.9718815,10022
+4,Queens,81,QN31,Hunters Point-Sunnyside-West Maspeth,74592.14261,102421815.2,"Hunters Point, Queens, NY, USA",40.7485587,-73.9496464,11101
+5,Staten Island,85,SI07,Westerleigh,41658.09708,63253932.17,"Westerleigh, Staten Island, NY 10314, USA",40.621215,-74.1318094,10314
+4,Queens,81,QN98,Airport,136232.0375,228199205.6,"Queens, NY 11371, United States",40.7766392,-73.87425,11371
+1,Manhattan,61,MN31,Lenox Hill-Roosevelt Island,39424.22571,21508615.76,"Lenox Hill, New York, NY, USA",40.7662315,-73.9602312,10065
+4,Queens,81,QN71,Old Astoria,19366.21702,15619597.07,"34-03 48th St, Long Island City, NY 11101, United States",40.7533023,-73.9144171,11101
+4,Queens,81,QN72,Steinway,43563.148989999994,57724460.86,"Steinway, Queens, NY 11105, USA",40.7745459,-73.9037477,11105
+4,Queens,81,QN47,Ft. Totten-Bay Terrace-Clearview,39625.84269,46292591.44,"Totten Ave. &, 15th Rd, Bayside, NY 11359, United States",39.1240951,-84.4318943,45226
+5,Staten Island,85,SI05,New Springville-Bloomfield-Travis,109207.9184,327768572.9,"Travis Ave, Staten Island, NY 10314, USA",40.5936645,-74.165986,10314
+5,Staten Island,85,SI24,Todt Hill-Emerson Hill-Heartland Village-Lighthouse Hill,75942.00256000001,184881509.1,#ERROR!,#ERROR!,#ERROR!,10304
+1,Manhattan,61,MN11,Central Harlem South,16621.02334,14439304.64,"130 Malcolm X Blvd, New York, NY 10026, United States",40.8021763,-73.9490789,10026
+1,Manhattan,61,MN34,East Harlem North,30603.71888,24494898.42,"East Harlem, New York, NY, USA",40.7957399,-73.9389213,10029
+3,Brooklyn,47,BK34,Sunset Park East,25901.82576,27110066.46,"Sunset Park, Brooklyn, NY, USA",40.65272,-74.0093348,11232
+4,Queens,81,QN22,Flushing,38362.72815,37865073.07,"Flushing, Queens, NY, USA",40.7674987,-73.833079,11354
+4,Queens,81,QN49,Whitestone,62139.047210000004,69050705.91,"Whitestone, Queens, NY, USA",40.7920449,-73.8095574,11357
+4,Queens,81,QN02,Springfield Gardens North,25437.061869999998,28432652.74,"Springfield Gardens, Queens, NY 11434, USA",40.6715916,-73.779798,11434
+4,Queens,81,QN76,Baisley Park,31478.438130000002,44038576.44,"Baisley Blvd, Jamaica, NY 11434, United States",40.6804559,-73.7746431,11434
+4,Queens,81,QN42,Oakland Gardens,42410.06772,51009679.34,"Oakland Gardens, Queens, NY 11364, USA",40.7408584,-73.758241,11364
+4,Queens,81,QN99,park-cemetery-etc-Queens,490742.0223,311688895.0,"57-80 Cooper Ave, Ridgewood, NY 11385, United States",40.6936292,-73.8993426,11385
+2,Bronx,5,BX30,Kingsbridge Heights,21108.81067,13163119.07,"Kingsbridge Heights, The Bronx, NY, USA",40.8711235,-73.8976328,10468
+3,Brooklyn,47,BK31,Bay Ridge,44375.56677,67181046.79,"Bay Ridge, Brooklyn, NY, USA",40.6263732,-74.0298767,11209
+3,Brooklyn,47,BK32,Sunset Park West,83323.50607,49990015.98,"Sunset Park, Brooklyn, NY, USA",40.65272,-74.0093348,11232
+4,Queens,81,QN56,Ozone Park,24731.699080000002,25016839.19,"Ozone Park, Queens, NY, USA",40.6794072,-73.8507279,11417
+4,Queens,81,QN57,Lindenwood-Howard Beach,79085.80012,64558946.53,"Howard Beach, Queens, NY, USA",40.6571222,-73.8429989,11414
+2,Bronx,5,BX36,University Heights-Morris Heights,24100.43204,21255485.46,"85 W Burnside Ave, The Bronx, NY 10453, United States",40.8549232,-73.9101709,10453
+5,Staten Island,85,SI35,New Brighton-Silver Lake,30320.374969999997,47137243.97,"Silver Lake Rd, Staten Island, NY 10301, USA",40.6321487,-74.0933106,10301
+5,Staten Island,85,SI22,West New Brighton-New Brighton-St. George,66054.25147999999,56030445.13,"West Brighton, Staten Island, NY, USA",40.6270298,-74.1093141,10310
