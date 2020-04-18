@@ -1,4 +1,4 @@
-<h3> How does access to hospitals differ across neighborhoods with different income levels </h3>
+<h3> How does access to hospitals differ across neighborhoods with different income levels? </h3>
 
 ## Setup
 
