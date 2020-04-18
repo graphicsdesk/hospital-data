@@ -15,6 +15,7 @@ brew install pipenv
 1. Copy this repository onto your machine. To do this, run this command in the terminal:
 ```
 git clone git@github.com:spec-journalism/hospital-data.git
+```
 
 2. Navigate to the newly created `hospital-data` folder by running:
 ```
